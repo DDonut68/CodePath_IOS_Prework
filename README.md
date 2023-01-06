@@ -6,7 +6,7 @@ This app let you introduce your full name, school, school year, number of pets y
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/okKWELb" width=200><br>
+<img src="https://i.imgur.com/DSJnUld.gif" width=200><br>
 
 ### Required Features
 
